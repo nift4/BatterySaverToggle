@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "letsmove",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattprowse/LetsMove",
+      "state" : {
+        "branch" : "add-spm-support",
+        "revision" : "92622985827e7dc63ca56359d7e620231b8c7148"
+      }
+    }
+  ],
+  "version" : 2
+}
